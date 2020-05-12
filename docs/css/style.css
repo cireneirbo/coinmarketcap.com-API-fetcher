@@ -1,5 +1,11 @@
 body {
-    background-image: url("https://images.pexels.com/photos/949587/pexels-photo-949587.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940");
+    
+    background-image: url("https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fimg.fliptab.io%2Fglitter%2F1920x1200%2F92978862.jpg&f=1&nofb=1");
+/*
+    background-image: url("https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.pcclean.io%2Fwp-content%2Fgallery%2Fjewelry-hd-wallpapers%2F368965.jpg&f=1&nofb=1");
+    */
+    background-size: cover;
+    background-repeat: no-repeat;
 }
 
 iframe {
