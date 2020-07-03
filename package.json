@@ -6,7 +6,8 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "sassc": "sass --watch public/css/style.scss:public/css/style.css --no-source-map",
-    "start": "nodemon --watch \"**/*.ts\" --exec ts-node server.ts"
+    "start": "nodemon --watch \"**/*.ts\" --exec ts-node server.ts",
+    "build": "rollup --config --watch"
   },
   "repository": {
     "type": "git",
